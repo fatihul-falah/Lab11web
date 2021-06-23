@@ -16,7 +16,7 @@
         </aside>
     </section>
     <footer>
-        <p>&copy; 311910717 - Fatihul Falah - Universitas Pelita Bangsa 2021</p>
+        <p>&copy; 311910460 - Fatihul Falah - Universitas Pelita Bangsa 2021</p>
     </footer>
     </div>
 </body>
